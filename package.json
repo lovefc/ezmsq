@@ -1,0 +1,31 @@
+{
+	"name": "ezmsq",
+
+	"version": "1.0.0",
+
+	"description": "mysql同步操作",
+
+	"keywords": "mysql,Sync,同步",
+
+	"homepage": "https://github.com/lovefc/ezmsq",
+
+	"main": "ezmsq.js",
+
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/lovefc/ezmsq.git"
+	},
+
+	"author": {
+		"name": "lovefc",
+		"email": "fcphp@qq.com",
+		"url": "http://lovefc.cn"
+	},
+
+	"dependencies": {
+		"mysql": "latest",
+		"squel": "^5.0.0"
+	},
+
+	"license": "MIT"
+}
